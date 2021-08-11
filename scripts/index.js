@@ -8,4 +8,4 @@ function view(){
         document.getElementById("button").innerHTML="View More";
         document.getElementById("content-3").setAttribute("style","margin-top:50px;display:none");
     }
-} 
+}
